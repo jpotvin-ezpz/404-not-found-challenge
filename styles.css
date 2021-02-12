@@ -1,0 +1,20 @@
+:root {
+  --heading-color: #333333;
+  --text-color: #4f4f4f;
+  --bg-color: #f3f3f3;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inconsolata", monospace;
+}

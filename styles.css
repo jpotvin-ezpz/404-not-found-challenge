@@ -1,7 +1,6 @@
 :root {
   --heading-color: #333333;
   --text-color: #4f4f4f;
-  --bg-color: #f3f3f3;
 }
 
 * {
@@ -17,4 +16,97 @@
 
 body {
   font-family: "Inconsolata", monospace;
+  color: var(--text-color);
+  overflow-y: hidden;
+}
+
+p {
+  font-family: "Space Mono", monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+  letter-spacing: -2.5px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 48px;
+}
+button {
+  background: var(--heading-color);
+  font-family: "Inconsolata", monospace;
+  font-size: 1rem;
+  color: white;
+  border: none;
+  height: 68px;
+  width: 216px;
+  margin-top: 64px;
+}
+
+.centering-wrapper {
+  margin: 0 auto;
+  padding: 40px;
+  max-width: 1440px;
+  max-height: 1080px;
+  box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+.main-wrapper {
+  display: flex;
+  height: 85vh;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info-wrapper {
+  height: 50%;
+}
+
+.info-wrapper h2 {
+  font-size: 3.2rem;
+  line-height: 1.4;
+}
+
+.info-wrapper p {
+  margin-top: 30px;
+  max-width: 380px;
+  min-height: 81px;
+  max-height: 108px;
+}
+
+.scarecrow-wrapper img {
+  display: block;
+  margin: 0 auto;
+  height: 80%;
+  width: 80%;
+}
+
+footer {
+  text-align: center;
+}
+
+@media only screen and (min-width: 960px) {
+  .main-wrapper {
+    flex-direction: row;
+    align-items: center;
+  }
+  .info-wrapper h2 {
+    font-size: 4rem;
+  }
+  .info-wrapper p {
+    font-size: 1.2rem;
+  }
+  .scarecrow-wrapper {
+    width: 60%;
+  }
 }

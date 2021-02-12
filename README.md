@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://new-toe.surge.sh/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/jpotvin-ezpz/404-not-found-challenge">
       Solution
     </a>
     <span> | </span>
@@ -40,18 +40,10 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- You can see a Demo at https://new-toe.surge.sh/
+- I actually had a lot of fun making this, this was a bit of a review for me but it was great practice for html and css.
+- I improved my positioning skills as well as my organization skills for the styles file. I focused really hard on following DRY Code principles.
+- Your wisdom? There's more than one way to skin a cat.
 
 ## Features
 
@@ -63,12 +55,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@jpotvin-ezpz](https://{github.com/your-usermame})

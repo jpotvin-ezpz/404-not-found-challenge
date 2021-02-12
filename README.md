@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/jpotvin-ezpz/404-not-found-challenge/blob/main/Screenshot_2021-02-12%20404%20Error%20Not%20Found.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
